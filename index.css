@@ -1,0 +1,63 @@
+body{
+	margin:auto;
+}
+
+.page-dimen{
+	padding:20px;
+	max-width: 1000px;
+    margin: auto;
+}
+
+.header-background{
+	position: fixed;
+    top: 0;
+	width: 100%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background: #7e21b8; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left top, #a22fe2, #320b4e); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, #a22fe2, #320b4e); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, #a22fe2, #320b4e); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, #a22fe2, #320b4e); /* Standard syntax */
+
+
+}
+
+.top-padding{
+	margin:60px;
+}
+
+.header{
+	padding:10px;
+	font-size:200%;
+	color:white;
+}
+
+.box-text{
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+.images{
+	margin:auto;
+}
+
+h2{
+	padding:10px;
+	color:white;
+	background-color:#d8178a;
+}
+
+.box{
+	background-color:white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.about{
+	float:left;
+}
+
+.head-img{
+	max-height:300px;
+	max-width:300px;
+}
